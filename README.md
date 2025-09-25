@@ -4,6 +4,7 @@ Supplementary material for the paper on "Visualizing mechanistic models by integ
 Dan Vasilescu, James C. Schaff, Ion I Moraru, and Michael L. Blinov. The folders represent several rule-based models illustrated with Molecular Process Diagrams introduced in this manuscript. Each folder has 
 - three visualizations: one generated with VCell software, and two SBGN-compliant diagrams (L2 and L3) generated with [yED](https://www.yworks.com/products/yed) graph editor.
 - an original .bngl file that represents a rule-based model. It can be opened in stand-alone [BioNetGen](http://bionetgen.org) software or in [VCell](http://vcell.org) software.
+- visualization of BNGL rules in VCell software, to demonstrate the discontinuity of the presentation by original rules
 - VCell model (.vcml) that is equivalent to .bngl model, it can be open in VCell software - no registration is required
 - two sources (.graphml) of SBGN-compliant visualization that can be opened in [yED](https://www.yworks.com/products/yed) graph editor or any other editor that supports graphML.
 
