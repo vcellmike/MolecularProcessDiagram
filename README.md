@@ -1,5 +1,7 @@
 # MolecularProcessDiagram
 
 Supplementary material for the paper on "Visualizing mechanistic models by integrating site-specific molecular details into reaction networks"
-Dan Vasilescu, James C. Schaff, Ion I Moraru, and Michael L. Blinov
-<img width="468" height="93" alt="image" src="https://github.com/user-attachments/assets/728a1039-4c92-4163-a62d-eb686ccc1b81" />
+Dan Vasilescu, James C. Schaff, Ion I Moraru, and Michael L. Blinov. The files represent several rule-based models illustrated with Molecular Process Diagrams introduced in this manuscript.
+
+- Barua_2009 represent a model from Barua, D., Faeder, J. R., & Haugh, J. M. (2009). A bipolar clamp mechanism for activation of Jak-family protein tyrosine kinases. PLoS Computational Biology, 5(4), e1000364. [PubMed:](https://pubmed.ncbi.nlm.nih.gov/19381268/)
+- 
