@@ -1,7 +1,11 @@
 # Molecular Process Diagram
 
 Supplementary material for the paper on "Visualizing mechanistic models by integrating site-specific molecular details into reaction networks"
-Dan Vasilescu, James C. Schaff, Ion I Moraru, and Michael L. Blinov. The folders represent several rule-based models illustrated with Molecular Process Diagrams introduced in this manuscript. Each folder has 
+Dan Vasilescu, James C. Schaff, Ion I Moraru, and Michael L. Blinov. 
+
+The SupplementalMaterial.pdf file discusses some of the models in greatrer detail.
+
+The folders represent several rule-based models illustrated with Molecular Process Diagrams introduced in this manuscript. Each folder has 
 - visualization generated with VCell software. After loading .vcml file in VCell, it is visible by clicking on an icon in the menu
  <img width="674" height="184" alt="mpd" src="https://github.com/user-attachments/assets/902f9e3a-ae97-4ede-b97c-66af72df4d32" />
 
